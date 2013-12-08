@@ -1,0 +1,8 @@
+Modules required: PIL
+
+- Implemented new functions
+- Implemented all possible gridobjects
+- Implemented Save/Load
+- Implemented Zoom
+- Implemented Mouse Handlers for all three frames
+- Added graphical elements

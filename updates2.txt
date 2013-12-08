@@ -1,0 +1,9 @@
+Modules required: PIL
+
+- Implemented all possible functions
+- Added graphical elements
+- Strengthened save/load elements
+- Added constraints on order placements
+- Added overflow safeties
+- Created a more robust way of operating functions
+- Added some more grahical objects
