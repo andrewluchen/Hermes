@@ -1,0 +1,6 @@
+Sokoban is a type of transport puzzle, in which the
+player pushes rocks trying to get them to storage locations.
+(Wikipedia)
+
+Try to get all the rocks on the stars
+#####100#####[[[], [], [], [], [183], [], [183]], [[], [], [], [], [183], [], []], [[], [183], [], [], [], [], [199]], [[183], [183], [], [183], [183], [183], [199]], [[], [182], [], [183], [], [], [199]], [[], [182], [182], [183], [], [], [183]], [[200], [], [], [183], [], [], []]]#####(0.0, 1.0)#####0#####

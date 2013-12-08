@@ -1,0 +1,21 @@
+Welcome to the Tutorial.
+This is a demonstration of how different things work in Hermes.
+
+On the board, there are a variety of objects
+that you (the robot) can interact with.
+Tokens can be dropped and picked up.
+Rocks can not be moved through, but can be pushed.
+For example, the spiral arrows will point you in certain directions.
+Green arrows push you in different directions.
+Your goal as the player, is to solve the puzzle using
+orders on the left to control your robot.
+
+If you are just experimenting: choose sandbox mode (You're in it right now!)
+If you are trying to solve a puzzle: choose playing mode
+If you want to make your own puzzle: choose teaching mode
+
+This puzzle is just get you familiar with the different tools and objects.
+
+For this puzzle, try to move four rocks
+onto the painted blue squares
+#####200#####[[[200], [], [], [190], [], [], [], [], [], [185]], [[183], [183], [183], [183], [183], [183], [183], [183], [183], []], [[], [], [], [], [], [], [187], [], [183], [196]], [[], [], [], [183], [183], [182], [187], [], [183], []], [[], [182], [182], [182], [], [], [187], [], [183], [196]], [[], [], [], [], [], [], [187], [], [183], []], [[], [194], [], [], [], [], [], [], [183], [197]], [[183], [], [183], [183], [183], [183], [183], [183], [183], []], [[], [], [], [201], [], [203], [], [202], [], [182]], [[183], [183], [183], [183], [183], [183], [183], [183], [183], []]]#####(0.0, 1.0)#####0#####
